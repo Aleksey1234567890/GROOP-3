@@ -1,2 +1,2 @@
-# GRUOP-3
+# GROOP-3
 FOR MY GROUP
