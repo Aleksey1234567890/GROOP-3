@@ -10,8 +10,7 @@ namespace KOKY
             Console.WriteLine("Элизка - сосиска!");
             Console.WriteLine("Элизка - сосиска!");
             Console.WriteLine("Элизка - сосиска!");
-            Console.WriteLine("Элизка - сосиска!");
-            Console.WriteLine("Элизка - сосиска!");
+            Console.WriteLine("НИколай");
         }
     }
 }
