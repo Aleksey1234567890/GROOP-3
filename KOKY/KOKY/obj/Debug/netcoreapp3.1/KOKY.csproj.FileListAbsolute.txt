@@ -1,0 +1,14 @@
+C:\Users\Ученик3\Source\Repos\GROOP_tot_samiy_TOCHNO\KOKY\KOKY\bin\Debug\netcoreapp3.1\KOKY.exe
+C:\Users\Ученик3\Source\Repos\GROOP_tot_samiy_TOCHNO\KOKY\KOKY\bin\Debug\netcoreapp3.1\KOKY.deps.json
+C:\Users\Ученик3\Source\Repos\GROOP_tot_samiy_TOCHNO\KOKY\KOKY\bin\Debug\netcoreapp3.1\KOKY.runtimeconfig.json
+C:\Users\Ученик3\Source\Repos\GROOP_tot_samiy_TOCHNO\KOKY\KOKY\bin\Debug\netcoreapp3.1\KOKY.runtimeconfig.dev.json
+C:\Users\Ученик3\Source\Repos\GROOP_tot_samiy_TOCHNO\KOKY\KOKY\bin\Debug\netcoreapp3.1\KOKY.dll
+C:\Users\Ученик3\Source\Repos\GROOP_tot_samiy_TOCHNO\KOKY\KOKY\bin\Debug\netcoreapp3.1\KOKY.pdb
+C:\Users\Ученик3\Source\Repos\GROOP_tot_samiy_TOCHNO\KOKY\KOKY\obj\Debug\netcoreapp3.1\KOKY.csproj.AssemblyReference.cache
+C:\Users\Ученик3\Source\Repos\GROOP_tot_samiy_TOCHNO\KOKY\KOKY\obj\Debug\netcoreapp3.1\KOKY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ученик3\Source\Repos\GROOP_tot_samiy_TOCHNO\KOKY\KOKY\obj\Debug\netcoreapp3.1\KOKY.AssemblyInfoInputs.cache
+C:\Users\Ученик3\Source\Repos\GROOP_tot_samiy_TOCHNO\KOKY\KOKY\obj\Debug\netcoreapp3.1\KOKY.AssemblyInfo.cs
+C:\Users\Ученик3\Source\Repos\GROOP_tot_samiy_TOCHNO\KOKY\KOKY\obj\Debug\netcoreapp3.1\KOKY.csproj.CoreCompileInputs.cache
+C:\Users\Ученик3\Source\Repos\GROOP_tot_samiy_TOCHNO\KOKY\KOKY\obj\Debug\netcoreapp3.1\KOKY.dll
+C:\Users\Ученик3\Source\Repos\GROOP_tot_samiy_TOCHNO\KOKY\KOKY\obj\Debug\netcoreapp3.1\KOKY.pdb
+C:\Users\Ученик3\Source\Repos\GROOP_tot_samiy_TOCHNO\KOKY\KOKY\obj\Debug\netcoreapp3.1\KOKY.genruntimeconfig.cache
