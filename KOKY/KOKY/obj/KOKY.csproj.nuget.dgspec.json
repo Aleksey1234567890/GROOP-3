@@ -1,31 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\RepoNIkola\\KOKY\\KOKY\\KOKY.csproj": {}
+    "C:\\Users\\Ученик3\\Source\\Repos\\GROOP_tot_samiy_TOCHNO\\KOKY\\KOKY\\KOKY.csproj": {}
   },
   "projects": {
-    "C:\\RepoNIkola\\KOKY\\KOKY\\KOKY.csproj": {
+    "C:\\Users\\Ученик3\\Source\\Repos\\GROOP_tot_samiy_TOCHNO\\KOKY\\KOKY\\KOKY.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\RepoNIkola\\KOKY\\KOKY\\KOKY.csproj",
+        "projectUniqueName": "C:\\Users\\Ученик3\\Source\\Repos\\GROOP_tot_samiy_TOCHNO\\KOKY\\KOKY\\KOKY.csproj",
         "projectName": "KOKY",
-        "projectPath": "C:\\RepoNIkola\\KOKY\\KOKY\\KOKY.csproj",
-        "packagesPath": "C:\\Users\\kodiu\\.nuget\\packages\\",
-        "outputPath": "C:\\RepoNIkola\\KOKY\\KOKY\\obj\\",
+        "projectPath": "C:\\Users\\Ученик3\\Source\\Repos\\GROOP_tot_samiy_TOCHNO\\KOKY\\KOKY\\KOKY.csproj",
+        "packagesPath": "C:\\Users\\Ученик3\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ученик3\\Source\\Repos\\GROOP_tot_samiy_TOCHNO\\KOKY\\KOKY\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\kodiu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Ученик3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
