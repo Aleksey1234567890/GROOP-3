@@ -6,11 +6,7 @@ namespace KOKY
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Элизка - сосиска!колбаса");
-            Console.WriteLine("Элизка - сосиска!");
-            Console.WriteLine("Элизка - сосиска!");
-            Console.WriteLine("Элизка - сосиска!");
-            Console.WriteLine("НИколай");
+            Console.WriteLine("Кто прочитал, тот лох");
         }
     }
 }
