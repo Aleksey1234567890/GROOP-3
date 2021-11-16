@@ -6,7 +6,7 @@ namespace KOKY
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Непотребство Амир, Глупый?");
+            Console.WriteLine("Кто обзывается, тот сам так называется!");
         }
     }
 }
