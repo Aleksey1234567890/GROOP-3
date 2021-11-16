@@ -6,7 +6,7 @@ namespace KOKY
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Worlde!");
+            Console.WriteLine("Элиза!");
         }
     }
 }
